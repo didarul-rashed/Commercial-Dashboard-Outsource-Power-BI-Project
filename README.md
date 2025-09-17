@@ -33,7 +33,7 @@
   </tr>
 </table>
 
-[![View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGY2MTk4OGItYjU0My00Zjc2LWI5ZGItYmI1NGUzMzJkMjFhIiwidCI6Ijg2NDU3OWM1LWVjMjctNDAzYi1hMjAwLWFhNjViYmEwMTIyMyIsImMiOjEwfQ%3D%3D)
+[![View Dashboard](https://img.shields.io/badge/PowerBI-Dashboard-blue?logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiOGY2MTk4OGItYjU0My00Zjc2LWI5ZGItYmI1NGUzMzJkMjFhIiwidCI6Ijg2NDU3OWM1LWVjMjctNDAzYi1hMjAwLWFhNjViYmEwMTIyMyIsImMiOjEwfQ%3D%3D)
 
 ## 🔎 Project Overview
 This project is based on a **real-world business problem** I solved at **Company X**.  
