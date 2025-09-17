@@ -1,5 +1,29 @@
 # 📊 Commercial Dashboard (Outsource) – Power BI Project
 
+<table>
+  <tr>
+    <td>
+      <img src="Screenshot 2025-09-17 200118.png" alt="Summary" width="500"/>
+    </td>
+    <td>
+      <img src="Screenshot 2025-09-17 200150.png" alt="OS Analysis" width="500"/>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <img src="Screenshot 2025-09-17 200243.png" alt="Shipment Performance" width="500"/>
+    </td>
+    <td>
+      <img src="Screenshot 2025-09-17 200318.png" alt="Cost & Commercial" width="500"/>
+    </td>
+  </tr>
+</table>
+
+[![View Dashboard](https://img.shields.io/badge/PowerBI-Dashboard-blue?logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiOTU1NTk2MDgtMDQ1YS00MjY0LWJlYWYtYzQxM2UyNDYzYjFhIiwidCI6Ijg2NDU3OWM1LWVjMjctNDAzYi1hMjAwLWFhNjViYmEwMTIyMyIsImMiOjEwfQ%3D%3D)
+
 ## 🔎 Project Overview
 This project is based on a **real-world business problem** I solved at **Company X**.  
 The goal was to build a **Commercial Dashboard** in Power BI, combining both **Exception Monitoring** and **Logistics Tracking** for outsourcing operations.  
