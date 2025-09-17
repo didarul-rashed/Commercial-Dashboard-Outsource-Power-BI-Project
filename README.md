@@ -22,7 +22,18 @@
   </tr>
 </table>
 
-[![View Dashboard](https://img.shields.io/badge/PowerBI-Dashboard-blue?logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiOTU1NTk2MDgtMDQ1YS00MjY0LWJlYWYtYzQxM2UyNDYzYjFhIiwidCI6Ijg2NDU3OWM1LWVjMjctNDAzYi1hMjAwLWFhNjViYmEwMTIyMyIsImMiOjEwfQ%3D%3D)
+<table>
+  <tr>
+    <td>
+      <img src="Screenshot 2025-09-17 200449.png" alt="Shipment Performance" width="500"/>
+    </td>
+    <td>
+      <img src="Screenshot 2025-09-17 201720.png" alt="Cost & Commercial" width="500"/>
+    </td>
+  </tr>
+</table>
+
+[![View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGY2MTk4OGItYjU0My00Zjc2LWI5ZGItYmI1NGUzMzJkMjFhIiwidCI6Ijg2NDU3OWM1LWVjMjctNDAzYi1hMjAwLWFhNjViYmEwMTIyMyIsImMiOjEwfQ%3D%3D)
 
 ## 🔎 Project Overview
 This project is based on a **real-world business problem** I solved at **Company X**.  
@@ -30,9 +41,7 @@ The goal was to build a **Commercial Dashboard** in Power BI, combining both **E
 
 For confidentiality, the data shown here is **dummy / anonymized** while maintaining the **same structure, rules, and logics** as the actual project.  
 👉 This ensures the business problem is clearly demonstrated while respecting organizational data privacy.  
-
-🔗 **Live Demo (Dummy Data):** [View Here](https://app.powerbi.com/view?r=eyJrIjoiOGY2MTk4OGItYjU0My00Zjc2LWI5ZGItYmI1NGUzMzJkMjFhIiwidCI6Ijg2NDU3OWM1LWVjMjctNDAzYi1hMjAwLWFhNjViYmEwMTIyMyIsImMiOjEwfQ%3D%3D)  
-
+  
 ---
 
 ## 🎯 Problem Statement
